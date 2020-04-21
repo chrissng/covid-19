@@ -88,6 +88,7 @@ Date,Country,Confirmed
 2020-04-18,Singapore-imported,560
 2020-04-19,Singapore-imported,560
 2020-04-20,Singapore-imported,560
+2020-04-21,Singapore-imported,560
 2020-01-23,Singapore-local,0
 2020-01-24,Singapore-local,0
 2020-01-25,Singapore-local,0
@@ -177,6 +178,7 @@ Date,Country,Confirmed
 2020-04-18,Singapore-local,1245
 2020-04-19,Singapore-local,1270
 2020-04-20,Singapore-local,1286
+2020-04-21,Singapore-local,1314
 2020-01-23,Singapore-dorm,0
 2020-01-24,Singapore-dorm,0
 2020-01-25,Singapore-dorm,0
@@ -266,3 +268,4 @@ Date,Country,Confirmed
 2020-04-18,Singapore-dorm,4187
 2020-04-19,Singapore-dorm,4758
 2020-04-20,Singapore-dorm,6168
+2020-04-21,Singapore-dorm,7251
